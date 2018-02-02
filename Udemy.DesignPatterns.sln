@@ -4,6 +4,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Udemy.DesignPatterns.Bridge
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Udemy.DesignPatterns.Composite", "Udemy.DesignPatterns.Composite\Udemy.DesignPatterns.Composite.csproj", "{942A275F-B9C2-4200-A622-FD3AE6628946}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Udemy.DesignPatterns.Decorator", "Udemy.DesignPatterns.Decorator\Udemy.DesignPatterns.Decorator.csproj", "{A859C781-1CB0-42A6-B354-E1A7DF3DCB59}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{942A275F-B9C2-4200-A622-FD3AE6628946}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{942A275F-B9C2-4200-A622-FD3AE6628946}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{942A275F-B9C2-4200-A622-FD3AE6628946}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A859C781-1CB0-42A6-B354-E1A7DF3DCB59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A859C781-1CB0-42A6-B354-E1A7DF3DCB59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A859C781-1CB0-42A6-B354-E1A7DF3DCB59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A859C781-1CB0-42A6-B354-E1A7DF3DCB59}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
