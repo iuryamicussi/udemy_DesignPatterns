@@ -1,0 +1,47 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/home/iury/RiderProjects/Udemy.DesignPatterns/Udemy.DesignPatterns.Bridge/Udemy.DesignPatterns.Bridge.csproj",
+    "projectName": "Udemy.DesignPatterns.Bridge",
+    "projectPath": "/home/iury/RiderProjects/Udemy.DesignPatterns/Udemy.DesignPatterns.Bridge/Udemy.DesignPatterns.Bridge.csproj",
+    "outputPath": "/home/iury/RiderProjects/Udemy.DesignPatterns/Udemy.DesignPatterns.Bridge/obj/",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp2.0"
+    ],
+    "frameworks": {
+      "netcoreapp2.0": {
+        "projectReferences": {}
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.0": {
+      "dependencies": {
+        "Autofac": {
+          "target": "Package",
+          "version": "[4.6.2, )"
+        },
+        "Microsoft.NETCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.0.0, )",
+          "autoReferenced": true
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}
