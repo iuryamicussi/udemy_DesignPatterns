@@ -30,6 +30,7 @@
       </e>
       <e p="Udemy.DesignPatterns.Decorator" t="IncludeRecursive">
         <e p="AdapterDecorator.cs" t="Include" />
+        <e p="MultipleInheritance.cs" t="Include" />
         <e p="Program.cs" t="Include" />
         <e p="Udemy.DesignPatterns.Decorator.csproj" t="IncludeRecursive" />
         <e p="bin" t="ExcludeRecursive" />
