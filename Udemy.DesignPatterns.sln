@@ -6,6 +6,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Udemy.DesignPatterns.Compos
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Udemy.DesignPatterns.Decorator", "Udemy.DesignPatterns.Decorator\Udemy.DesignPatterns.Decorator.csproj", "{A859C781-1CB0-42A6-B354-E1A7DF3DCB59}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Udemy.DesignPatterns.Builder", "Udemy.DesignPatterns.Builder\Udemy.DesignPatterns.Builder.csproj", "{BF58C37C-16C1-45F1-B462-5DBD9DDEB600}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Udemy.DesignPatterns.Factory", "Udemy.DesignPatterns.Factory\Udemy.DesignPatterns.Factory.csproj", "{2722A756-7349-455B-82A5-DD3956B1A49D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Udemy.DesignPatterns.Prototype", "Udemy.DesignPatterns.Prototype\Udemy.DesignPatterns.Prototype.csproj", "{3A52FFDA-0087-41AB-BFCD-4E9306A37DB4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +30,17 @@ Global
 		{A859C781-1CB0-42A6-B354-E1A7DF3DCB59}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A859C781-1CB0-42A6-B354-E1A7DF3DCB59}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A859C781-1CB0-42A6-B354-E1A7DF3DCB59}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF58C37C-16C1-45F1-B462-5DBD9DDEB600}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF58C37C-16C1-45F1-B462-5DBD9DDEB600}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF58C37C-16C1-45F1-B462-5DBD9DDEB600}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF58C37C-16C1-45F1-B462-5DBD9DDEB600}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2722A756-7349-455B-82A5-DD3956B1A49D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2722A756-7349-455B-82A5-DD3956B1A49D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2722A756-7349-455B-82A5-DD3956B1A49D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2722A756-7349-455B-82A5-DD3956B1A49D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A52FFDA-0087-41AB-BFCD-4E9306A37DB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A52FFDA-0087-41AB-BFCD-4E9306A37DB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A52FFDA-0087-41AB-BFCD-4E9306A37DB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A52FFDA-0087-41AB-BFCD-4E9306A37DB4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

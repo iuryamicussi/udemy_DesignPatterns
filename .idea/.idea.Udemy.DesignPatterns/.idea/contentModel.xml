@@ -15,6 +15,18 @@
           </e>
         </e>
       </e>
+      <e p="Udemy.DesignPatterns.Builder" t="IncludeRecursive">
+        <e p="Program.cs" t="Include" />
+        <e p="Udemy.DesignPatterns.Builder.csproj" t="IncludeRecursive" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.0" t="Include">
+              <e p="Udemy.DesignPatterns.Builder.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
       <e p="Udemy.DesignPatterns.Composite" t="IncludeRecursive">
         <e p="NeuralNetworks.cs" t="Include" />
         <e p="Program.cs" t="Include" />
@@ -38,6 +50,18 @@
           <e p="Debug" t="Include">
             <e p="netcoreapp2.0" t="Include">
               <e p="Udemy.DesignPatterns.Decorator.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="Udemy.DesignPatterns.Factory" t="IncludeRecursive">
+        <e p="Program.cs" t="Include" />
+        <e p="Udemy.DesignPatterns.Factory.csproj" t="IncludeRecursive" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.0" t="Include">
+              <e p="Udemy.DesignPatterns.Factory.AssemblyInfo.cs" t="Include" />
             </e>
           </e>
         </e>
