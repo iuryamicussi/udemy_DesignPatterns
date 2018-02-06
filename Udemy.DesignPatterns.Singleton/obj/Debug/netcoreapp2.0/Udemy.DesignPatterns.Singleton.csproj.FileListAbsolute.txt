@@ -1,0 +1,10 @@
+/home/iury/RiderProjects/Udemy.DesignPatterns/Udemy.DesignPatterns.Singleton/bin/Debug/netcoreapp2.0/Udemy.DesignPatterns.Singleton.deps.json
+/home/iury/RiderProjects/Udemy.DesignPatterns/Udemy.DesignPatterns.Singleton/bin/Debug/netcoreapp2.0/Udemy.DesignPatterns.Singleton.runtimeconfig.json
+/home/iury/RiderProjects/Udemy.DesignPatterns/Udemy.DesignPatterns.Singleton/bin/Debug/netcoreapp2.0/Udemy.DesignPatterns.Singleton.runtimeconfig.dev.json
+/home/iury/RiderProjects/Udemy.DesignPatterns/Udemy.DesignPatterns.Singleton/bin/Debug/netcoreapp2.0/Udemy.DesignPatterns.Singleton.dll
+/home/iury/RiderProjects/Udemy.DesignPatterns/Udemy.DesignPatterns.Singleton/bin/Debug/netcoreapp2.0/Udemy.DesignPatterns.Singleton.pdb
+/home/iury/RiderProjects/Udemy.DesignPatterns/Udemy.DesignPatterns.Singleton/obj/Debug/netcoreapp2.0/Udemy.DesignPatterns.Singleton.csproj.CoreCompileInputs.cache
+/home/iury/RiderProjects/Udemy.DesignPatterns/Udemy.DesignPatterns.Singleton/obj/Debug/netcoreapp2.0/Udemy.DesignPatterns.Singleton.AssemblyInfoInputs.cache
+/home/iury/RiderProjects/Udemy.DesignPatterns/Udemy.DesignPatterns.Singleton/obj/Debug/netcoreapp2.0/Udemy.DesignPatterns.Singleton.AssemblyInfo.cs
+/home/iury/RiderProjects/Udemy.DesignPatterns/Udemy.DesignPatterns.Singleton/obj/Debug/netcoreapp2.0/Udemy.DesignPatterns.Singleton.dll
+/home/iury/RiderProjects/Udemy.DesignPatterns/Udemy.DesignPatterns.Singleton/obj/Debug/netcoreapp2.0/Udemy.DesignPatterns.Singleton.pdb

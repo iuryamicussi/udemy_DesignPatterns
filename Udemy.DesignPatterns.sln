@@ -12,6 +12,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Udemy.DesignPatterns.Factor
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Udemy.DesignPatterns.Prototype", "Udemy.DesignPatterns.Prototype\Udemy.DesignPatterns.Prototype.csproj", "{3A52FFDA-0087-41AB-BFCD-4E9306A37DB4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Udemy.DesignPatterns.Singleton", "Udemy.DesignPatterns.Singleton\Udemy.DesignPatterns.Singleton.csproj", "{D8457353-EDAA-4385-8F7A-93505BEE268A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -42,5 +44,9 @@ Global
 		{3A52FFDA-0087-41AB-BFCD-4E9306A37DB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3A52FFDA-0087-41AB-BFCD-4E9306A37DB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3A52FFDA-0087-41AB-BFCD-4E9306A37DB4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8457353-EDAA-4385-8F7A-93505BEE268A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8457353-EDAA-4385-8F7A-93505BEE268A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8457353-EDAA-4385-8F7A-93505BEE268A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8457353-EDAA-4385-8F7A-93505BEE268A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

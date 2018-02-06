@@ -4,7 +4,7 @@
     <list default="true" id="89616417-54e4-436c-a2a7-0648dfc2c1ec" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Udemy.DesignPatterns/.idea/contentModel.xml" afterPath="$PROJECT_DIR$/.idea/.idea.Udemy.DesignPatterns/.idea/contentModel.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Udemy.DesignPatterns/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/.idea.Udemy.DesignPatterns/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/Udemy.DesignPatterns.Decorator/obj/Debug/netcoreapp2.0/Udemy.DesignPatterns.Decorator.csproj.CoreCompileInputs.cache" afterPath="$PROJECT_DIR$/Udemy.DesignPatterns.Decorator/obj/Debug/netcoreapp2.0/Udemy.DesignPatterns.Decorator.csproj.CoreCompileInputs.cache" />
+      <change beforePath="$PROJECT_DIR$/Udemy.DesignPatterns.Prototype/Program.cs" afterPath="$PROJECT_DIR$/Udemy.DesignPatterns.Prototype/Program.cs" />
       <change beforePath="$PROJECT_DIR$/Udemy.DesignPatterns.sln" afterPath="$PROJECT_DIR$/Udemy.DesignPatterns.sln" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,39 +17,45 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="Program.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Udemy.DesignPatterns.Builder/Program.cs">
+        <entry file="file://$PROJECT_DIR$/Udemy.DesignPatterns.Prototype/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="396">
+              <caret line="22" column="17" lean-forward="false" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
               <folding>
-                <marker date="1517862326608" expanded="false" signature="6:32" ph="..." />
-                <marker date="1517862326608" expanded="true" signature="72:1141" ph="{...}" />
-                <marker date="1517862326608" expanded="true" signature="103:883" ph="{...}" />
-                <marker date="1517862326608" expanded="true" signature="256:380" ph="{...}" />
-                <marker date="1517862326608" expanded="true" signature="461:579" ph="{...}" />
-                <marker date="1517862326608" expanded="true" signature="630:708" ph="{...}" />
-                <marker date="1517862326608" expanded="true" signature="782:877" ph="{...}" />
-                <marker date="1517862326608" expanded="true" signature="902:1139" ph="{...}" />
-                <marker date="1517862326608" expanded="true" signature="948:1133" ph="{...}" />
+                <marker date="1517878167301" expanded="true" signature="6:103" ph="..." />
+                <marker date="1517878167301" expanded="true" signature="145:2184" ph="{...}" />
+                <marker date="1517878167301" expanded="true" signature="188:548" ph="{...}" />
+                <marker date="1517878167301" expanded="true" signature="249:542" ph="{...}" />
+                <marker date="1517878167301" expanded="true" signature="358:532" ph="{...}" />
+                <marker date="1517878167301" expanded="true" signature="591:628" ph="{...}" />
+                <marker date="1517878167301" expanded="true" signature="670:1513" ph="{...}" />
+                <marker date="1517878167301" expanded="true" signature="741:1103" ph="{...}" />
+                <marker date="1517878167301" expanded="true" signature="792:1092" ph="{...}" />
+                <marker date="1517878167301" expanded="true" signature="842:932" ph="{...}" />
+                <marker date="1517878167301" expanded="true" signature="984:1078" ph="{...}" />
+                <marker date="1517878167301" expanded="true" signature="1146:1507" ph="{...}" />
+                <marker date="1517878167301" expanded="true" signature="1536:2182" ph="{...}" />
+                <marker date="1517878167301" expanded="true" signature="1582:2176" ph="{...}" />
+                <marker date="1517878167301" expanded="true" signature="1638:1898" ph="{...}" />
+                <marker date="1517878167301" expanded="true" signature="1688:1760" ph="{...}" />
+                <marker date="1517878167301" expanded="true" signature="1812:1884" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="Program.cs" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Udemy.DesignPatterns.Factory/Program.cs">
+        <entry file="file://$PROJECT_DIR$/Udemy.DesignPatterns.Singleton/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="14" column="5" lean-forward="true" selection-start-line="4" selection-start-column="4" selection-end-line="14" selection-end-column="5" />
+            <state relative-caret-position="198">
+              <caret line="11" column="47" lean-forward="true" selection-start-line="8" selection-start-column="12" selection-end-line="11" selection-end-column="47" />
               <folding>
-                <marker date="1517864375643" expanded="true" signature="54:889" ph="{...}" />
-                <marker date="1517864375643" expanded="true" signature="87:305" ph="{...}" />
-                <marker date="1517864375643" expanded="true" signature="177:299" ph="{...}" />
-                <marker date="1517864375643" expanded="true" signature="217:288" ph="{...}" />
-                <marker date="1517864375643" expanded="true" signature="331:527" ph="{...}" />
-                <marker date="1517864375643" expanded="true" signature="457:520" ph="{...}" />
-                <marker date="1517864375643" expanded="true" signature="546:887" ph="{...}" />
-                <marker date="1517864375643" expanded="true" signature="599:881" ph="{...}" />
+                <marker date="1517880567613" expanded="true" signature="55:766" ph="{...}" />
+                <marker date="1517880567613" expanded="true" signature="90:315" ph="{...}" />
+                <marker date="1517880567613" expanded="true" signature="154:309" ph="{...}" />
+                <marker date="1517880567613" expanded="true" signature="347:512" ph="{...}" />
+                <marker date="1517880567613" expanded="true" signature="535:764" ph="{...}" />
+                <marker date="1517880567613" expanded="true" signature="581:758" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -72,9 +78,11 @@
     <setting file="file://$PROJECT_DIR$/Udemy.DesignPatterns.Bridge/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Udemy.DesignPatterns.Decorator/MultipleInheritance.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Udemy.DesignPatterns.Factory/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Udemy.DesignPatterns.Singleton/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Udemy.DesignPatterns.Composite/NeuralNetworks.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Udemy.DesignPatterns.Decorator/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Udemy.DesignPatterns.Builder/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Udemy.DesignPatterns.Prototype/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Udemy.DesignPatterns.Composite/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Udemy.DesignPatterns.Decorator/AdapterDecorator.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
@@ -88,6 +96,8 @@
         <option value="$PROJECT_DIR$/Udemy.DesignPatterns.Decorator/AdapterDecorator.cs" />
         <option value="$PROJECT_DIR$/Udemy.DesignPatterns.Decorator/MultipleInheritance.cs" />
         <option value="$PROJECT_DIR$/Udemy.DesignPatterns.Factory/Program.cs" />
+        <option value="$PROJECT_DIR$/Udemy.DesignPatterns.Prototype/Program.cs" />
+        <option value="$PROJECT_DIR$/Udemy.DesignPatterns.Singleton/Program.cs" />
       </list>
     </option>
   </component>
@@ -99,8 +109,8 @@
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="27" />
-    <option name="width" value="1260" />
-    <option name="height" value="957" />
+    <option name="width" value="640" />
+    <option name="height" value="997" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -126,12 +136,7 @@
           <expand>
             <path>
               <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-              <item name="Udemy.DesignPatterns (5 projects)" type="977d5f41:SolutionExplorerNodeRider" />
-            </path>
-            <path>
-              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-              <item name="Udemy.DesignPatterns (5 projects)" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="Udemy.DesignPatterns.Factory" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Udemy.DesignPatterns (7 projects)" type="977d5f41:SolutionExplorerNodeRider" />
             </path>
           </expand>
           <select />
@@ -157,7 +162,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected=".NET Project.Udemy.DesignPatterns.Factory">
+  <component name="RunManager" selected=".NET Project.Udemy.DesignPatterns.Singleton">
     <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="$PROJECT_DIR$/Udemy.DesignPatterns.Bridge/bin/Debug/netcoreapp2.0/Udemy.DesignPatterns.Bridge.dll" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -222,17 +227,51 @@
       <option name="PROJECT_KIND" value="DotNetCore" />
       <option name="PROJECT_TFM" value=".NETCoreApp,Version=v2.0" />
     </configuration>
-    <list size="4">
+    <configuration name="Udemy.DesignPatterns.Prototype" type="DotNetProject" factoryName=".NET Project" temporary="true">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/Udemy.DesignPatterns.Prototype/bin/Debug/netcoreapp2.0/Udemy.DesignPatterns.Prototype.dll" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Udemy.DesignPatterns.Prototype" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <envs />
+      <option name="USE_MONO" value="0" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Udemy.DesignPatterns.Prototype/Udemy.DesignPatterns.Prototype.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v2.0" />
+    </configuration>
+    <configuration name="Udemy.DesignPatterns.Singleton" type="DotNetProject" factoryName=".NET Project" temporary="true">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/Udemy.DesignPatterns.Singleton/bin/Debug/netcoreapp2.0/Udemy.DesignPatterns.Singleton.dll" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Udemy.DesignPatterns.Singleton" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <envs />
+      <option name="USE_MONO" value="0" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Udemy.DesignPatterns.Singleton/Udemy.DesignPatterns.Singleton.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v2.0" />
+    </configuration>
+    <list size="6">
       <item index="0" class="java.lang.String" itemvalue=".NET Project.Default" />
       <item index="1" class="java.lang.String" itemvalue=".NET Project.Udemy.DesignPatterns.Composite" />
       <item index="2" class="java.lang.String" itemvalue=".NET Project.Udemy.DesignPatterns.Decorator" />
       <item index="3" class="java.lang.String" itemvalue=".NET Project.Udemy.DesignPatterns.Factory" />
+      <item index="4" class="java.lang.String" itemvalue=".NET Project.Udemy.DesignPatterns.Prototype" />
+      <item index="5" class="java.lang.String" itemvalue=".NET Project.Udemy.DesignPatterns.Singleton" />
     </list>
     <recent_temporary>
-      <list size="3">
-        <item index="0" class="java.lang.String" itemvalue=".NET Project.Udemy.DesignPatterns.Factory" />
-        <item index="1" class="java.lang.String" itemvalue=".NET Project.Udemy.DesignPatterns.Decorator" />
-        <item index="2" class="java.lang.String" itemvalue=".NET Project.Udemy.DesignPatterns.Composite" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue=".NET Project.Udemy.DesignPatterns.Singleton" />
+        <item index="1" class="java.lang.String" itemvalue=".NET Project.Udemy.DesignPatterns.Prototype" />
+        <item index="2" class="java.lang.String" itemvalue=".NET Project.Udemy.DesignPatterns.Factory" />
+        <item index="3" class="java.lang.String" itemvalue=".NET Project.Udemy.DesignPatterns.Decorator" />
+        <item index="4" class="java.lang.String" itemvalue=".NET Project.Udemy.DesignPatterns.Composite" />
       </list>
     </recent_temporary>
   </component>
@@ -251,7 +290,7 @@
       <updated>1517520485719</updated>
       <workItem from="1517520502675" duration="2592000" />
       <workItem from="1517605575920" duration="4382000" />
-      <workItem from="1517864159275" duration="229000" />
+      <workItem from="1517864159275" duration="5209000" />
     </task>
     <task id="LOCAL-00001" summary="First Commit">
       <created>1517607733394</created>
@@ -264,7 +303,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7203000" />
+    <option name="totallyTimeSpent" value="12183000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -287,7 +326,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33029613" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32993197" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21953125" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32915717" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -314,7 +353,9 @@
     <option name="LAST_COMMIT_MESSAGE" value="First Commit" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
@@ -731,8 +772,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Udemy.DesignPatterns.Factory/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="14" column="5" lean-forward="true" selection-start-line="4" selection-start-column="4" selection-end-line="14" selection-end-column="5" />
+        <state relative-caret-position="146">
+          <caret line="22" column="9" lean-forward="false" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
           <folding>
             <marker date="1517864375643" expanded="true" signature="54:889" ph="{...}" />
             <marker date="1517864375643" expanded="true" signature="87:305" ph="{...}" />
@@ -742,6 +783,47 @@
             <marker date="1517864375643" expanded="true" signature="457:520" ph="{...}" />
             <marker date="1517864375643" expanded="true" signature="546:887" ph="{...}" />
             <marker date="1517864375643" expanded="true" signature="599:881" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Udemy.DesignPatterns.Prototype/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="22" column="17" lean-forward="false" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
+          <folding>
+            <marker date="1517878167301" expanded="true" signature="6:103" ph="..." />
+            <marker date="1517878167301" expanded="true" signature="145:2184" ph="{...}" />
+            <marker date="1517878167301" expanded="true" signature="188:548" ph="{...}" />
+            <marker date="1517878167301" expanded="true" signature="249:542" ph="{...}" />
+            <marker date="1517878167301" expanded="true" signature="358:532" ph="{...}" />
+            <marker date="1517878167301" expanded="true" signature="591:628" ph="{...}" />
+            <marker date="1517878167301" expanded="true" signature="670:1513" ph="{...}" />
+            <marker date="1517878167301" expanded="true" signature="741:1103" ph="{...}" />
+            <marker date="1517878167301" expanded="true" signature="792:1092" ph="{...}" />
+            <marker date="1517878167301" expanded="true" signature="842:932" ph="{...}" />
+            <marker date="1517878167301" expanded="true" signature="984:1078" ph="{...}" />
+            <marker date="1517878167301" expanded="true" signature="1146:1507" ph="{...}" />
+            <marker date="1517878167301" expanded="true" signature="1536:2182" ph="{...}" />
+            <marker date="1517878167301" expanded="true" signature="1582:2176" ph="{...}" />
+            <marker date="1517878167301" expanded="true" signature="1638:1898" ph="{...}" />
+            <marker date="1517878167301" expanded="true" signature="1688:1760" ph="{...}" />
+            <marker date="1517878167301" expanded="true" signature="1812:1884" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Udemy.DesignPatterns.Singleton/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="47" lean-forward="true" selection-start-line="8" selection-start-column="12" selection-end-line="11" selection-end-column="47" />
+          <folding>
+            <marker date="1517880567613" expanded="true" signature="55:766" ph="{...}" />
+            <marker date="1517880567613" expanded="true" signature="90:315" ph="{...}" />
+            <marker date="1517880567613" expanded="true" signature="154:309" ph="{...}" />
+            <marker date="1517880567613" expanded="true" signature="347:512" ph="{...}" />
+            <marker date="1517880567613" expanded="true" signature="535:764" ph="{...}" />
+            <marker date="1517880567613" expanded="true" signature="581:758" ph="{...}" />
           </folding>
         </state>
       </provider>
