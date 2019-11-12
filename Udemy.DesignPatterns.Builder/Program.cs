@@ -38,7 +38,7 @@ namespace Udemy.DesignPatterns.Builder
             var cb = new CodeBuilder("Person").AddField("Name", "string").AddField("Age", "int");
             Console.WriteLine(cb);
 
-            Console.ReadKey();
+            //Console.ReadKey();
         }
     }
 }
